@@ -27,15 +27,6 @@ public class QuickSort : ISortingAlgorithm
     }
 }
 
-
-
-
-
-
-
-
-
-
 public enum TestCase
 {
     Sorted,
